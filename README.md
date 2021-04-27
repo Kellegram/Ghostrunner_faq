@@ -78,7 +78,8 @@ Equivalent settings are in per-app options in Radeon Adrenalin software. Enable 
 - Micrologist's [trainer](https://github.com/Micrologist/GhostrunnerTrainer/releases)
 - Dmgvol's [save unlocker](https://github.com/Dmgvol/GRUnlocker)
 
-
+---
+ Ghostrunning FAQ © 2021 by Kellegram is licensed under CC BY-NC 4.0 
 
 
 
