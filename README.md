@@ -1,6 +1,7 @@
 - [Frequently asked questions](#frequently-asked-questions)
   - [How do I use the new always available "Instant restart"?](#how-do-i-use-the-new-always-available-instant-restart)
-  - [How do I show the Speedometer?](#how-do-i-show-the-speedometer)
+  - [Save File Location](#save-file-location)
+  - [How do I show the Speedometer and death counter in LiveSplit?](#how-do-i-show-the-speedometer-and-death-counter-in-livesplit)
   - [How do I choose which DirectX version to use?](#how-do-i-choose-which-directx-version-to-use)
   - [How to set DirectX 12 by default?](#how-to-set-directx-12-by-default)
   - [Should I use DirectX 11 or 12?](#should-i-use-directx-11-or-12)
@@ -26,10 +27,14 @@
 ## How do I use the new always available "Instant restart"?
 In settings, ensure the option "Instant restart" is set to "On". If you wish to rebind the key, it's the same entry as for Quick restart on death, there is no new entry for this functionality.
 
-## How do I show the Speedometer?
+## Save File Location
+- Windows  
+`%LOCALAPPDATA%\Ghostrunner\Saved\`
 
-There is a Speedometer and Death Counter built into the LiveSplit .asl.
+- Steam Play (Linux)  
+  `<steamfolder>/steamapps/compatdata/1139900/pfx/drive_c/users/steamuser/Local Settings/Application Data/Ghosteamuser/Local Settings/Application Data/Ghostrunner/Saved/SaveGames`
 
+## How do I show the Speedometer and death counter in LiveSplit?
 You can activate it by:
 1. Right clicking LiveSplit then
 2. Edit Splits
@@ -103,9 +108,10 @@ V-sync in games tends to be subpar, Nvidia(and AMD for the most part) does it be
 - [New Ghostrunners - Beginner's Guide](https://docs.google.com/spreadsheets/d/1jWBOuxSY-zlBgzhkYnsVYtNJFscbObve67g9Xy_biV0/edit)
 - [Inbounds speedtech doc](https://docs.google.com/spreadsheets/d/1RVfpfNUJEUBfPfs1Ch-7rmXD_IFO37Iyw50tFEgnEbY/edit)
 - [Out of Bounds speedtech doc](https://docs.google.com/spreadsheets/d/1r6YV0NYDE0wTVllcY1qSab4n7Z-VYIdu4Z3DuqsDE48)
-- [Glossary of terms](Glossary.md)
+- [Glossary of terms]([Glossary.md](https://docs.google.com/spreadsheets/d/1jWBOuxSY-zlBgzhkYnsVYtNJFscbObve67g9Xy_biV0/edit#gid=14803918))
 
 # Useful links
+- [LiveSplit](https://livesplit.org/)
 - Micrologist's [trainer](https://github.com/Micrologist/GhostrunnerTrainer/releases)
 - Dmgvol's [save unlocker](https://github.com/Dmgvol/GRUnlocker)
 
