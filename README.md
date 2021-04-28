@@ -1,6 +1,6 @@
 - [Frequently asked questions](#frequently-asked-questions)
   - [How do I use the new always available "Instant restart"?](#how-do-i-use-the-new-always-available-instant-restart)
-  - [Save File Location](#save-file-location)
+  - [Where are my saves located?](#where-are-my-saves-located)
   - [How do I show the Speedometer and death counter in LiveSplit?](#how-do-i-show-the-speedometer-and-death-counter-in-livesplit)
   - [How do I choose which DirectX version to use?](#how-do-i-choose-which-directx-version-to-use)
   - [How to set DirectX 12 by default?](#how-to-set-directx-12-by-default)
@@ -27,7 +27,7 @@
 ## How do I use the new always available "Instant restart"?
 In settings, ensure the option "Instant restart" is set to "On". If you wish to rebind the key, it's the same entry as for Quick restart on death, there is no new entry for this functionality.
 
-## Save File Location
+## Where are my saves located?
 - Windows  
 `%LOCALAPPDATA%\Ghostrunner\Saved\`
 
