@@ -48,6 +48,7 @@ This seems to be a rare issue where the in-game setting does not work. No workar
 ## Input lag and/or broken VSync
 - Disable in-game VSync. In-game VSync tends to be subpar. NVIDIA and AMD for the most part implement it better.
 - Disable Windows 10 [Game Mode](https://www.xsplit.com/support/useful-tools/windows-game-mode) and [Xbox Game Bar](https://www.windowscentral.com/how-disable-and-remove-game-bar-windows-10-creators-update).
+- Try this [fix](Blurryfix.md).
 
 ## Ray tracing is disabling itself
 This is a common bug. Reasons and solutions are currently unknown.
