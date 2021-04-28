@@ -6,16 +6,16 @@
   - [Should I use DirectX 11 or 12?](#should-i-use-directx-11-or-12)
   - [How do I downpatch the game?](#how-do-i-downpatch-the-game)
 - [Technical issues](#technical-issues)
-  - [My graphics/keybinds are resetting](#my-graphicskeybinds-are-resetting)
-  - [Nothing disables Vsync](#nothing-disables-vsync)
-  - [Input lag and/or broken VSync](#input-lag-andor-broken-vsync)
+  - [My graphics/keybindings are resetting](#my-graphicskeybindings-are-resetting)
+  - [Nothing disables V-sync](#nothing-disables-v-sync)
+  - [Input lag and/or broken V-sync](#input-lag-andor-broken-v-sync)
   - [Ray tracing is disabling itself](#ray-tracing-is-disabling-itself)
 - [General improvements](#general-improvements)
   - [NVIDIA Reflex](#nvidia-reflex)
     - [What is NVIDIA Reflex?](#what-is-nvidia-reflex)
     - [What NVIDIA reflex is NOT?](#what-nvidia-reflex-is-not)
     - [How to enable NVIDIA Reflex for Ghostrunner](#how-to-enable-nvidia-reflex-for-ghostrunner)
-  - [Replace in-game vsync](#replace-in-game-vsync)
+  - [Replace in-game V-sync](#replace-in-game-v-sync)
 - [Speedrunning resources](#speedrunning-resources)
 - [Useful links](#useful-links)
 - [Credits](#credits)
@@ -51,14 +51,14 @@ If you want to play on earlier version, for example for a specific speedrun, or 
 
 # Technical issues
 
-## My graphics/keybinds are resetting
+## My graphics/keybindings are resetting
 Go to `%LOCALAPPDATA%\Ghostrunner\Saved\Config\WindowsNoEditor`. Set the things you want, then right click each file, go to Properties and set as read-only.
 
-## Nothing disables Vsync
+## Nothing disables V-sync
 This seems to be a rare issue where the in-game setting does not work. No workarounds are known, try to completely wipe the game and config, then reinstall.
 
-## Input lag and/or broken VSync
-- Disable in-game VSync. In-game VSync tends to be subpar. NVIDIA and AMD for the most part implement it better.
+## Input lag and/or broken V-sync
+- Disable in-game V-sync. In-game V-sync tends to be subpar. NVIDIA and AMD for the most part implement it better.
 - Disable Windows 10 [Game Mode](https://www.xsplit.com/support/useful-tools/windows-game-mode) and [Xbox Game Bar](https://www.windowscentral.com/how-disable-and-remove-game-bar-windows-10-creators-update).
 - Try this [fix](Blurryfix.md).
 
@@ -88,11 +88,11 @@ NVIDIA Reflex is not a universal tool that works for all applications. It's up t
 3. Start Ghostrunner and go to Settings > Video
 4. Scroll all the way down and in the dropdown pick "Enabled + Boost" (In temperature constrained scenarios it might be beneficial to not enable Boost, test for yourself)
 
-## Replace in-game vsync
-Vsync in games tends to be subpar, Nvidia(and AMD for the most part) does it better. Disable Vsync in-game then do the following depending on your card:
+## Replace in-game V-sync
+V-sync in games tends to be subpar, Nvidia(and AMD for the most part) does it better. Disable V-sync in-game then do the following depending on your card:
 
 - ### Nvidia
-  Go to the Nvidia control panel, in 3d settings for Ghostrunner disable Vsync(or globally, depending on what you want).
+  Go to the Nvidia control panel, in 3d settings for Ghostrunner disable V-sync(or globally, depending on what you want).
 - ## AMD improvements
   Equivalent settings are in per-app options in Radeon Adrenalin software. Enable Radeon Anti-lag or Enchanced Sync. Disable waiting for vertical refresh rate.
 
