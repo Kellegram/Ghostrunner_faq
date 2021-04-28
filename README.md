@@ -3,6 +3,7 @@
   - [How do I choose which DirectX version to use?](#how-do-i-choose-which-directx-version-to-use)
   - [How to set DirectX 12 by default?](#how-to-set-directx-12-by-default)
   - [Should I use DirectX 11 or 12?](#should-i-use-directx-11-or-12)
+  - [How do I downpatch the game?](#how-do-i-downpatch-the-game)
 - [Technical issues](#technical-issues)
   - [My graphics/keybinds are resetting](#my-graphicskeybinds-are-resetting)
   - [Nothing disables Vsync](#nothing-disables-vsync)
@@ -14,7 +15,7 @@
     - [What NVIDIA reflex is NOT?](#what-nvidia-reflex-is-not)
     - [How to enable NVIDIA Reflex for Ghostrunner](#how-to-enable-nvidia-reflex-for-ghostrunner)
   - [Replace in-game vsync](#replace-in-game-vsync)
-- [Resources](#resources)
+- [Speedrunning resources](#speedrunning-resources)
 - [Useful links](#useful-links)
 - [Credits](#credits)
 
@@ -33,6 +34,8 @@ Open the Steam application, go to Library, right click Ghostrunner, click on Pro
 ## Should I use DirectX 11 or 12?
 DirectX 11 is generally better used for stability. DirectX 12 is better if you want ray tracing, you have an RTX card or DirectX 11 is causing issues.
 
+## How do I downpatch the game?
+If you want to play on earlier version, for example for a specific speedrun, or you just want multiple versions of the game, here is a [guide on downpatching.](Downpatching.md)
 
 # Technical issues
 
@@ -80,7 +83,7 @@ Vsync in games tends to be subpar, Nvidia(and AMD for the most part) does it bet
 - ## AMD improvements
   Equivalent settings are in per-app options in Radeon Adrenalin software. Enable Radeon Anti-lag or Enchanced Sync. Disable waiting for vertical refresh rate.
 
-# Resources
+# Speedrunning resources
 - [Speedrun.com page](https://www.speedrun.com/ghostrunner)
 - [Speedrunning resources](https://www.speedrun.com/ghostrunner/resources)
 - [Ghostrunning - the speedrunning discord](https://discord.gg/eZRz3Q5)
@@ -95,6 +98,8 @@ Vsync in games tends to be subpar, Nvidia(and AMD for the most part) does it bet
 # Credits
 - [One More Level](https://www.omlgames.com/en/home/) and [Slipgate Ironworks](https://en.wikipedia.org/wiki/Slipgate_Ironworks) for developing the game
 - [TheEvilSkeleton](https://github.com/TheEvilSkeleton) for help with the README
+- [Dmgvol](https://github.com/Dmgvol) for downpatching guide and GRUnlocker.
+- [Micrologist](https://github.com/Micrologist) for the trainer.
 
 ---
  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Kellegram/Ghostrunner_faq">Ghostrunning FAQ</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Kellegram">Kellegram</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
