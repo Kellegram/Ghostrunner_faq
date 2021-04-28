@@ -8,7 +8,7 @@ Ghostrunner is prone to crashing, we are uncertain what exactly causes those iss
     - [Lower your graphics settings](#lower-your-graphics-settings)
     - [Do not alt-tab the game](#do-not-alt-tab-the-game)
     - [Disable all overlays](#disable-all-overlays)
-  - [Disable third party crapware](#disable-third-party-crapware)
+    - [Disable third party crapware](#disable-third-party-crapware)
 
 
 ## Troubleshooting steps
@@ -61,7 +61,7 @@ Overlays can include, but are not limited to:
     5. Click OK when prompted
     <details>
 
-## Disable third party crapware
+### Disable third party crapware
 Typical Windows installations come pre-installed with tons of third party bloatware, especially common with laptops and prebuilts, where software related to some features of the hardware comes with the included Windows installation or gets installed automatically on first launch. 
 
 It is not uncommon for those poorly written applications to cause slowdowns, crashes, freezes, etc. in many games and other applications. Ghostrunner is no exception, often times disabling or uninstalling said third party bloatware would fix the game not starting or crashing randomly.
