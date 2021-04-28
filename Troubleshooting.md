@@ -8,7 +8,7 @@ Ghostrunner is prone to crashing, we are uncertain what exactly causes those iss
     - [Lower your graphics settings](#lower-your-graphics-settings)
     - [Do not alt-tab the game](#do-not-alt-tab-the-game)
     - [Disable all overlays](#disable-all-overlays)
-  - [To be continued](#to-be-continued)
+  - [Disable third party crapware](#disable-third-party-crapware)
 
 
 ## Troubleshooting steps
@@ -34,25 +34,25 @@ This again is good practice anyway, but has shown to help with Ghostrunner espec
 Overlays can include, but are not limited to:
 - The discord overlay, here is how to disable it:
   <details>
-    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
+    <summary> Expand me for instructions! </summary>
 
     ![disable discord overlay](Images/Troubleshooting_img/discord_overlay_off.png)
   </details>
 - Steam overlay, here is how to disable it only for Ghostrunner:
     <details>
-    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
+    <summary> Expand me for instructions! </summary>
 
     ![Disable steam overlay](Images/Troubleshooting_img/steam_overlay_off.png)
     </details>
 - GeForce Experience overlay, here is how to disable it:
     <details>
-    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
+    <summary> Expand me for instructions! </summary>
 
     ![Disable shadowplay](Images/Troubleshooting_img/Shadowplay_off.png)
     </details>
 - Razer Synapse Stats, here is how to disable it:
     <details>
-    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
+    <summary> Expand me for instructions! </summary>
     
     1. Double-click the Synapse icon Synapse_icon.png
     2. Click on Stats
@@ -61,4 +61,16 @@ Overlays can include, but are not limited to:
     5. Click OK when prompted
     <details>
 
-## To be continued
+## Disable third party crapware
+Typical Windows installations come pre-installed with tons of third party bloatware, especially common with laptops and prebuilts, where software related to some features of the hardware comes with the included Windows installation or gets installed automatically on first launch. 
+
+It is not uncommon for those poorly written applications to cause slowdowns, crashes, freezes, etc. in many games and other applications. Ghostrunner is no exception, often times disabling or uninstalling said third party bloatware would fix the game not starting or crashing randomly.
+
+Third party bloatware can include:
+- RGB control software (Those especially caused issues for players)
+- System "cleanup" or "speedup" software (placebo/useless in most cases and can be harmful)
+- Various other utilities from laptop/prebuilt manufacturer
+- Third party antivirus (eg. Norton, McAfee)
+
+
+I would recommend uninstalling everything that comes pre-installed and avoid using third party software from the manufacturer unless you REALLY need it. Disabling it during gameplay can be ok, but there were cases where just having some of it installed would cause issues.
