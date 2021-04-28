@@ -103,6 +103,7 @@ Vsync in games tends to be subpar, Nvidia(and AMD for the most part) does it bet
 - [New Ghostrunners - Beginner's Guide](https://docs.google.com/spreadsheets/d/1jWBOuxSY-zlBgzhkYnsVYtNJFscbObve67g9Xy_biV0/edit)
 - [Inbounds speedtech doc](https://docs.google.com/spreadsheets/d/1RVfpfNUJEUBfPfs1Ch-7rmXD_IFO37Iyw50tFEgnEbY/edit)
 - [Out of Bounds speedtech doc](https://docs.google.com/spreadsheets/d/1r6YV0NYDE0wTVllcY1qSab4n7Z-VYIdu4Z3DuqsDE48)
+- [Glossary of terms](Glossary.md)
 
 # Useful links
 - Micrologist's [trainer](https://github.com/Micrologist/GhostrunnerTrainer/releases)
