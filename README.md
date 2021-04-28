@@ -13,6 +13,7 @@
   - [Nothing disables V-sync](#nothing-disables-v-sync)
   - [Input lag and/or broken V-sync](#input-lag-andor-broken-v-sync)
   - [Ray tracing is disabling itself](#ray-tracing-is-disabling-itself)
+  - [Stability survey and results](#stability-survey-and-results)
 - [General improvements](#general-improvements)
   - [NVIDIA Reflex](#nvidia-reflex)
     - [What is NVIDIA Reflex?](#what-is-nvidia-reflex)
@@ -85,6 +86,8 @@ To fix this, do the following:
 ## Ray tracing is disabling itself
 This is a common bug. Reasons and solutions are currently unknown.
 
+## Stability survey and results
+There is a Ghostrunner stability survey handled by Henry, you can read more about it [here](Survey.md).
 
 # General improvements
 
