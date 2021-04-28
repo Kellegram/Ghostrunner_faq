@@ -1,6 +1,8 @@
 - [Frequently asked questions](#frequently-asked-questions)
   - [How do I use the new always available "Instant restart"?](#how-do-i-use-the-new-always-available-instant-restart)
-  - [Where are my saves located?](#where-are-my-saves-located)
+  - [Where are my saves/configs located?](#where-are-my-savesconfigs-located)
+    - [Save files](#save-files)
+    - [Configs](#configs)
   - [How do I show the Speedometer and death counter in LiveSplit?](#how-do-i-show-the-speedometer-and-death-counter-in-livesplit)
   - [How do I choose which DirectX version to use?](#how-do-i-choose-which-directx-version-to-use)
   - [How to set DirectX 12 by default?](#how-to-set-directx-12-by-default)
@@ -16,7 +18,7 @@
     - [What is NVIDIA Reflex?](#what-is-nvidia-reflex)
     - [What NVIDIA reflex is NOT?](#what-nvidia-reflex-is-not)
     - [How to enable NVIDIA Reflex for Ghostrunner](#how-to-enable-nvidia-reflex-for-ghostrunner)
-  - [Replace in-game V-sync](#replace-in-game-v-sync)
+  - [AMD improvements](#amd-improvements)
 - [Speedrunning resources](#speedrunning-resources)
 - [Useful links](#useful-links)
 - [Credits](#credits)
@@ -27,12 +29,19 @@
 ## How do I use the new always available "Instant restart"?
 In settings, ensure the option "Instant restart" is set to "On". If you wish to rebind the key, it's the same entry as for Quick restart on death, there is no new entry for this functionality.
 
-## Where are my saves located?
+## Where are my saves/configs located?
+### Save files
 - Windows  
 `%LOCALAPPDATA%\Ghostrunner\Saved\`
 
 - Steam Play (Linux)  
   `<steamfolder>/steamapps/compatdata/1139900/pfx/drive_c/users/steamuser/Local Settings/Application Data/Ghosteamuser/Local Settings/Application Data/Ghostrunner/Saved/SaveGames`
+
+### Configs
+- Windows  
+`%LOCALAPPDATA%\Ghostrunner\Saved\Config\WindowsNoEditor\`
+- Steam Play (Linux)
+`<steamfolder>/steamapps/compatdata/1139900/pfx/drive_c/users/steamuser/Local Settings/Application Data/Ghosteamuser/Local Settings/Application Data/Ghostrunner/Saved/Config/WindowsNoEditor/`
 
 ## How do I show the Speedometer and death counter in LiveSplit?
 You can activate it by:
@@ -93,13 +102,8 @@ NVIDIA Reflex is not a universal tool that works for all applications. It's up t
 3. Start Ghostrunner and go to Settings > Video
 4. Scroll all the way down and in the dropdown pick "Enabled + Boost" (In temperature constrained scenarios it might be beneficial to not enable Boost, test for yourself)
 
-## Replace in-game V-sync
-V-sync in games tends to be subpar, Nvidia(and AMD for the most part) does it better. Disable V-sync in-game then do the following depending on your card:
-
-- ### Nvidia
-  Go to the Nvidia control panel, in 3d settings for Ghostrunner disable V-sync(or globally, depending on what you want).
-- ## AMD improvements
-  Equivalent settings are in per-app options in Radeon Adrenalin software. Enable Radeon Anti-lag or Enchanced Sync. Disable waiting for vertical refresh rate.
+## AMD improvements
+There are a couple settings that can help on AMD cards (no guarantees). In Radeon Adrenalin software enable Radeon Anti-lag or Enchanced Sync. Disable waiting for vertical refresh rate if unwanted.
 
 # Speedrunning resources
 - [Speedrun.com page](https://www.speedrun.com/ghostrunner)
@@ -114,6 +118,7 @@ V-sync in games tends to be subpar, Nvidia(and AMD for the most part) does it be
 - [LiveSplit](https://livesplit.org/)
 - Micrologist's [trainer](https://github.com/Micrologist/GhostrunnerTrainer/releases)
 - Dmgvol's [save unlocker](https://github.com/Dmgvol/GRUnlocker)
+- [PCGamingWiki entry](https://www.pcgamingwiki.com/wiki/Ghostrunner)
 
 # Credits
 - [One More Level](https://www.omlgames.com/en/home/) and [Slipgate Ironworks](https://en.wikipedia.org/wiki/Slipgate_Ironworks) for developing the game
