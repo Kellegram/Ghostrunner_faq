@@ -69,7 +69,11 @@ If you want to play on earlier version, for example for a specific speedrun, or 
 Go to `%LOCALAPPDATA%\Ghostrunner\Saved\Config\WindowsNoEditor`. Set the things you want, then right click each file, go to Properties and set as read-only.
 
 ## Nothing disables V-sync
-This seems to be a rare issue where the in-game setting does not work. No workarounds are known, try to completely wipe the game and config, then reinstall.
+To fix this, do the following:
+
+1. Go to `%LOCALAPPDATA%/Ghostrunner/Saved/Config/WindowsNoEditor` 
+2. Open and add to Engine.ini
+3. In [ConsoleVariables] section change r.VSync=1 to r.VSync=0
 
 ## Input lag and/or broken V-sync
 - Disable in-game V-sync. In-game V-sync tends to be subpar. NVIDIA and AMD for the most part implement it better.
