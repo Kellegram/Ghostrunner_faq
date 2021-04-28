@@ -9,6 +9,7 @@
   - [Should I use DirectX 11 or 12?](#should-i-use-directx-11-or-12)
   - [How do I downpatch the game?](#how-do-i-downpatch-the-game)
 - [Technical issues](#technical-issues)
+  - [Troubleshooting](#troubleshooting)
   - [My graphics/keybindings are resetting](#my-graphicskeybindings-are-resetting)
   - [Nothing disables V-sync](#nothing-disables-v-sync)
   - [Input lag and/or broken V-sync](#input-lag-andor-broken-v-sync)
@@ -66,6 +67,8 @@ If you want to play on earlier version, for example for a specific speedrun, or 
 
 # Technical issues
 
+## Troubleshooting
+For troubleshooting crashes make sure to take a look at the [Troubleshooting page](Troubleshooting.md).
 ## My graphics/keybindings are resetting
 Go to `%LOCALAPPDATA%\Ghostrunner\Saved\Config\WindowsNoEditor`. Set the things you want, then right click each file, go to Properties and set as read-only.
 
