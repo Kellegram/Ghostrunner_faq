@@ -75,6 +75,8 @@ To fix this, do the following:
 2. Open and add to Engine.ini
 3. In [ConsoleVariables] section change r.VSync=1 to r.VSync=0
 
+<sub><sup>Credit to LongerWarrior for this.</sup></sub>
+
 ## Input lag and/or broken V-sync
 - Disable in-game V-sync. In-game V-sync tends to be subpar. NVIDIA and AMD for the most part implement it better.
 - Disable Windows 10 [Game Mode](https://www.xsplit.com/support/useful-tools/windows-game-mode) and [Xbox Game Bar](https://www.windowscentral.com/how-disable-and-remove-game-bar-windows-10-creators-update).
@@ -129,6 +131,7 @@ There are a couple settings that can help on AMD cards (no guarantees). In Radeo
 - [TheEvilSkeleton](https://github.com/TheEvilSkeleton) for help with the README
 - [Dmgvol](https://github.com/Dmgvol) for downpatching guide and GRUnlocker.
 - [Micrologist](https://github.com/Micrologist) for the trainer.
+- LongerWarrior for Vsync fix
 
 ---
  <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Kellegram/Ghostrunner_faq">Ghostrunning FAQ</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Kellegram">Kellegram</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
