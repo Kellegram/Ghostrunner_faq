@@ -1,21 +1,22 @@
 - [Frequently asked questions](#frequently-asked-questions)
-  * [How do I use the new always available "Instant restart"?](#how-do-i-use-the-new-always-available-instant-restart)
-  * [How do I choose which DirectX version to use?](#how-do-i-choose-which-directx-version-to-use)
-  * [How to set DirectX 12 by default?](#how-to-set-directx-12-by-default)
-  * [Should I use DirectX 11 or 12?](#should-i-use-directx-11-or-12)
+  - [How do I use the new always available "Instant restart"?](#how-do-i-use-the-new-always-available-instant-restart)
+  - [How do I choose which DirectX version to use?](#how-do-i-choose-which-directx-version-to-use)
+  - [How to set DirectX 12 by default?](#how-to-set-directx-12-by-default)
+  - [Should I use DirectX 11 or 12?](#should-i-use-directx-11-or-12)
 - [Technical issues](#technical-issues)
-  * [My graphics/keybinds are resetting](#my-graphicskeybinds-are-resetting)
-  * [Nothing disables Vsync](#nothing-disables-vsync)
-  * [Input lag and/or broken VSync](#input-lag-andor-broken-vsync)
-  * [Ray tracing is disabling itself](#ray-tracing-is-disabling-itself)
+  - [My graphics/keybinds are resetting](#my-graphicskeybinds-are-resetting)
+  - [Nothing disables Vsync](#nothing-disables-vsync)
+  - [Input lag and/or broken VSync](#input-lag-andor-broken-vsync)
+  - [Ray tracing is disabling itself](#ray-tracing-is-disabling-itself)
 - [General improvements](#general-improvements)
-  * [NVIDIA Reflex](#nvidia-reflex)
-    + [What is NVIDIA Reflex?](#what-is-nvidia-reflex)
-    + [What NVIDIA reflex is NOT?](#what-nvidia-reflex-is-not)
-    + [How to enable NVIDIA Reflex for Ghostrunner](#how-to-enable-nvidia-reflex-for-ghostrunner)
-  * [AMD improvements](#amd-improvements)
+  - [NVIDIA Reflex](#nvidia-reflex)
+    - [What is NVIDIA Reflex?](#what-is-nvidia-reflex)
+    - [What NVIDIA reflex is NOT?](#what-nvidia-reflex-is-not)
+    - [How to enable NVIDIA Reflex for Ghostrunner](#how-to-enable-nvidia-reflex-for-ghostrunner)
+  - [Replace in-game vsync](#replace-in-game-vsync)
 - [Resources](#resources)
 - [Useful links](#useful-links)
+- [Credits](#credits)
 
 
 # Frequently asked questions
@@ -71,10 +72,18 @@ NVIDIA Reflex is not a universal tool that works for all applications. It's up t
 3. Start Ghostrunner and go to Settings > Video
 4. Scroll all the way down and in the dropdown pick "Enabled + Boost" (In temperature constrained scenarios it might be beneficial to not enable Boost, test for yourself)
 
-## AMD improvements
-Equivalent settings are in per-app options in Radeon Adrenalin software. Enable Radeon Anti-lag or Enchanced Sync. Disable waiting for vertical refresh rate.
+## Replace in-game vsync
+Vsync in games tends to be subpar, Nvidia(and AMD for the most part) does it better. Disable Vsync in-game then do the following depending on your card:
+
+- ### Nvidia
+  Go to the Nvidia control panel, in 3d settings for Ghostrunner disable Vsync(or globally, depending on what you want).
+- ## AMD improvements
+  Equivalent settings are in per-app options in Radeon Adrenalin software. Enable Radeon Anti-lag or Enchanced Sync. Disable waiting for vertical refresh rate.
 
 # Resources
+- [Speedrun.com page](https://www.speedrun.com/ghostrunner)
+- [Speedrunning resources](https://www.speedrun.com/ghostrunner/resources)
+- [Ghostrunning - the speedrunning discord](https://discord.gg/eZRz3Q5)
 - [New Ghostrunners - Beginner's Guide](https://docs.google.com/spreadsheets/d/1jWBOuxSY-zlBgzhkYnsVYtNJFscbObve67g9Xy_biV0/edit)
 - [Inbounds speedtech doc](https://docs.google.com/spreadsheets/d/1RVfpfNUJEUBfPfs1Ch-7rmXD_IFO37Iyw50tFEgnEbY/edit)
 - [Out of Bounds speedtech doc](https://docs.google.com/spreadsheets/d/1r6YV0NYDE0wTVllcY1qSab4n7Z-VYIdu4Z3DuqsDE48)
@@ -83,5 +92,9 @@ Equivalent settings are in per-app options in Radeon Adrenalin software. Enable 
 - Micrologist's [trainer](https://github.com/Micrologist/GhostrunnerTrainer/releases)
 - Dmgvol's [save unlocker](https://github.com/Dmgvol/GRUnlocker)
 
+# Credits
+- [One More Level](https://www.omlgames.com/en/home/) and [Slipgate Ironworks](https://en.wikipedia.org/wiki/Slipgate_Ironworks) for developing the game
+- [TheEvilSkeleton](https://github.com/TheEvilSkeleton) for help with the README
+
 ---
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Kellegram/Ghostrunner_faq">Ghostrunners FAQ</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Kellegram">Kellegram</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Kellegram/Ghostrunner_faq">Ghostrunning FAQ</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Kellegram">Kellegram</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
