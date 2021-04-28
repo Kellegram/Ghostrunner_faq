@@ -34,25 +34,25 @@ This again is good practice anyway, but has shown to help with Ghostrunner espec
 Overlays can include, but are not limited to:
 - The discord overlay, here is how to disable it:
   <details>
-    <summary> Expand me for instructions! </summary>
+    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
 
     ![disable discord overlay](Images/Troubleshooting_img/discord_overlay_off.png)
   </details>
 - Steam overlay, here is how to disable it only for Ghostrunner:
     <details>
-    <summary> Expand me for instructions! </summary>
+    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
 
     ![Disable steam overlay](Images/Troubleshooting_img/steam_overlay_off.png)
     </details>
 - GeForce Experience overlay, here is how to disable it:
     <details>
-    <summary> Expand me for instructions! </summary>
+    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
 
     ![Disable shadowplay](Images/Troubleshooting_img/Shadowplay_off.png)
     </details>
 - Razer Synapse Stats, here is how to disable it:
     <details>
-    <summary> Expand me for instructions! </summary>
+    <summary> <span style="color: orange"> Expand me for instructions! </span> </summary>
     
     1. Double-click the Synapse icon Synapse_icon.png
     2. Click on Stats
