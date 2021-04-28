@@ -1,5 +1,6 @@
 - [Frequently asked questions](#frequently-asked-questions)
   - [How do I use the new always available "Instant restart"?](#how-do-i-use-the-new-always-available-instant-restart)
+  - [How do I show the Speedometer?](#how-do-i-show-the-speedometer)
   - [How do I choose which DirectX version to use?](#how-do-i-choose-which-directx-version-to-use)
   - [How to set DirectX 12 by default?](#how-to-set-directx-12-by-default)
   - [Should I use DirectX 11 or 12?](#should-i-use-directx-11-or-12)
@@ -24,6 +25,17 @@
 
 ## How do I use the new always available "Instant restart"?
 In settings, ensure the option "Instant restart" is set to "On". If you wish to rebind the key, it's the same entry as for Quick restart on death, there is no new entry for this functionality.
+
+## How do I show the Speedometer?
+
+There is a Speedometer and Death Counter built into the LiveSplit .asl.
+
+You can activate it by:
+1. Right clicking LiveSplit then
+2. Edit Splits
+3. Activate (If you haven't already)
+4. Settings
+5. Tick off whichever options you'd like.
 
 ## How do I choose which DirectX version to use?
 By default, Ghostrunner launches in DirectX 11. To choose which DirectX version to use, launch the game via the Steam application and choose the version you want it to launch.
