@@ -1,5 +1,6 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/Ghostrunner?style=for-the-badge)](https://www.reddit.com/r/ghostrunner)
 [![Discord](https://img.shields.io/discord/707647729043636276?color=%237289da&label=Join%20the%20discord%21&style=for-the-badge)](https://discord.gg/eZRz3Q5)
+![GitHub last commit](https://img.shields.io/github/last-commit/Kellegram/Ghostrunner_faq?label=Last%20update&style=for-the-badge)
 
 ---
 
