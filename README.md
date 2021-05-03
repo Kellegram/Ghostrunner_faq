@@ -131,6 +131,7 @@ There are a couple settings that can help on AMD cards (no guarantees). In Radeo
 - Micrologist's [trainer](https://github.com/Micrologist/GhostrunnerTrainer/releases)
 - Dmgvol's [save unlocker](https://github.com/Dmgvol/GRUnlocker)
 - [PCGamingWiki entry](https://www.pcgamingwiki.com/wiki/Ghostrunner)
+- [Ghostrunner subreddit](https://www.reddit.com/r/ghostrunner)
 
 # Credits
 - [One More Level](https://www.omlgames.com/en/home/) and [Slipgate Ironworks](https://en.wikipedia.org/wiki/Slipgate_Ironworks) for developing the game
