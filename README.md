@@ -1,3 +1,8 @@
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/Ghostrunner?style=for-the-badge) 
+![Discord](https://img.shields.io/discord/707647729043636276?color=%237289da&label=Join%20the%20discord%21&style=for-the-badge)
+
+---
+
 - [Frequently asked questions](#frequently-asked-questions)
   - [How do I use the new always available "Instant restart"?](#how-do-i-use-the-new-always-available-instant-restart)
   - [Where are my saves/configs located?](#where-are-my-savesconfigs-located)
