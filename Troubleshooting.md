@@ -54,7 +54,7 @@ Overlays can include, but are not limited to:
     <details>
     <summary> Expand me for instructions! </summary>
     
-    1. Double-click the Synapse icon Synapse_icon.png
+    1. Double-click the Synapse icon
     2. Click on Stats
     3. In the new window, click on the Settings icon in the top right
     4. Set "Data Tracking" to Off
