@@ -59,7 +59,7 @@ Overlays can include, but are not limited to:
     3. In the new window, click on the Settings icon in the top right
     4. Set "Data Tracking" to Off
     5. Click OK when prompted
-    <details>
+    </details>
 
 ### Disable third party crapware
 Typical Windows installations come pre-installed with tons of third party bloatware, especially common with laptops and prebuilts, where software related to some features of the hardware comes with the included Windows installation or gets installed automatically on first launch. 
