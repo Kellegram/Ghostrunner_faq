@@ -2,7 +2,7 @@
 
 Henry has created a form that anyone can fill out with information regarding the game's stability. By collecting information like hardware specification of players as well as some game data, we might be able to find patterns in crashes, slowdowns, etc. which could aid us, but more importantly the developers.
 
-## The form
+## We need your help!
 The google form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSeeZAfXEQFOXgmMUOHrxbbw_rgB-OjeemlzAoN8KlC6YE9C_A/viewform). The form is for the most part anonymous (as anonymous as google forms can be), with an **optional** question about your SRC.
 
 ## Form results
