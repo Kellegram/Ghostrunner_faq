@@ -106,7 +106,7 @@ There is a Ghostrunner stability survey handled by Henry, you can read more abou
 In layman's terms NVIDIA Reflex decreases the time taken for a frame to be rendered and sent to your display, which helps decrease latency. The benefit of it is varied, there are tons of variables that go into how well it will work, but worst case scenario as far as we know is that it won't do anything, so there is no disadvantages to keeping it enabled (apart from perhaps power consumption but that's negligible). 
 
 ### What NVIDIA reflex is NOT?
-NVIDIA Reflex will NOT directly increase your FPS. While it can technically happen, it would be an indirect result of reducing the GPU load which would reduce thermal throttling and give you higher FPS, but because Reflex acts also as a frame limiter, it will prevent the framerate from raising too high which would bring the temperatures back up.
+NVIDIA Reflex will NOT directly increase your FPS. While it can technically happen, it would be an indirect result of reducing the GPU load which would reduce thermal throttling and give you higher FPS, but because Reflex acts also as a frame limiter, it will prevent the framerate from raising too high, as that would bring the temperatures back up.
 
 NVIDIA Reflex is not a universal tool that works for all applications. It's up to the game developer to implement this in code, google to find an availability list (Obviously for Ghostrunner it's available).
 
