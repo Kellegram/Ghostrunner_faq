@@ -1,12 +1,12 @@
 # Downpatching guide
 
-1) Download & Extract [Depot Downloader](https://github.com/SteamRE/DepotDownloader/releases/tag/DepotDownloader_2.4.0)
+1) Download & Extract [Depot Downloader](https://github.com/SteamRE/DepotDownloader/releases/tag/DepotDownloader_2.4.4)
 2) Create a batch file in the newly created folder with the following contents:
 ```bat
 @echo off
-Title Ghostrunner Downpatcher (v0.32091.481)
+Title Ghostrunner Downpatcher (v0.40019.626 - WaveUpdate)
 SET /P _username= Steam Username: 
-call dotnet .\DepotDownloader.dll -app 1139900 -depot 1139901 -manifest 1667486716279452529 -username "%_username%" -remember-password -dir ".\Ghostrunner" -max-servers 30 -max-downloads 10
+call dotnet .\DepotDownloader.dll -app 1139900 -depot 1139901 -manifest 1246752516781224602 -username "%_username%" -remember-password -dir ".\Ghostrunner" -max-servers 30 -max-downloads 10
 rmdir ".\Ghostrunner\.DepotDownloader" /s /q
 echo 1139900 >> .\Ghostrunner\steam_appid.txt
 pause
