@@ -4,7 +4,7 @@
 2) Create a batch file in the newly created folder with the following contents:
 ```bat
 @echo off
-Title Ghostrunner Downpatcher (v0.40019.626 - WaveUpdate)
+Title Ghostrunner Downpatcher (0.34834.545 - Killrun Update)
 SET /P _username= Steam Username: 
 call dotnet .\DepotDownloader.dll -app 1139900 -depot 1139901 -manifest 1246752516781224602 -username "%_username%" -remember-password -dir ".\Ghostrunner" -max-servers 30 -max-downloads 10
 rmdir ".\Ghostrunner\.DepotDownloader" /s /q
