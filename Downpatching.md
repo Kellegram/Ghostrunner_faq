@@ -1,6 +1,6 @@
 # Downpatching guide
 
-1) Download & Extract [Depot Downloader](https://github.com/SteamRE/DepotDownloader/releases/tag/DepotDownloader_2.4.4)
+1) Download & Extract [Depot Downloader](https://github.com/SteamRE/DepotDownloader/releases/latest)
 2) Create a batch file in the newly created folder with the following contents:
 ```bat
 @echo off
